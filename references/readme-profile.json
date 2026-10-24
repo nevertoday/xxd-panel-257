@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 257｜Silent Single Line: compresses the subject of a photo into a minimal emotional sign drawn with one very thin, restrained, slightly irregular monoline that pauses and breathes like a quiet hand-written note, keeping only the key outline, direction and relationships — sometimes only part of the contour — with at most a few supporting lines such as a horizon, ripples, a plant stem or a ridge, in a low-contrast, quiet palette of ink green, dark grey, warm white, misty blue and pale teal, extreme negative space and one very short poetic line of text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-257 or asks for wabi-sabi, single-line or ultra-minimal poetic line drawing from a photo.",
+  "short_description": "寂静单线：只留一根极细、不完全规则的单线，悬在极端留白里",
+  "zh-CN": {
+    "name": "寂静单线",
+    "tagline": "把照片主体收成一根极细、不完全规则的单线，悬在大片留白里。",
+    "look": "画面里只剩一根极细、克制、不完全规则的单线，勾出主体最关键的轮廓、方向和关系，有时只画出一部分轮廓，让看的人自己补全。线像一次安静的手记，有停顿、有呼吸，不是完整描边。旁边最多再有几根辅助线，比如一条水平线、几道水纹、一根植物茎或一段山脊。颜色很少、对比很低：墨绿、深灰、暖白、雾蓝、淡青。主体可以非常小、偏移或悬着，四周几乎全是留白，配一句极短的诗意小字。",
+    "traits": ["寂静单线", "侘寂", "极细线", "极端负空间", "一个锚点", "低对比"],
+    "good": [
+      "轮廓本身就有情绪的主体：一个人的背影、一只停着的鸟、一座远山",
+      "安静简单的瞬间：水面上的一只船、一枝花、窗前的一把椅子",
+      "想做成极简海报、诗集配图或安静壁纸的照片"
+    ],
+    "poor": [
+      "想保留颜色、材质或细节的照片，这里几乎只剩一根线",
+      "热闹复杂、主体不清楚的场景",
+      "想要粗重线条、矢量图标、卡通或写实描绘的需求"
+    ]
+  },
+  "en": {
+    "name": "Silent Single Line",
+    "tagline": "Reduces the subject of your photo to one very thin, slightly imperfect line floating in wide white space.",
+    "look": "All that remains is one very thin, restrained, slightly irregular line tracing the subject's key outline, direction and relationships, sometimes only part of the contour, leaving the viewer to complete it. The line reads like a quiet hand-written note, with pauses and breath, never a full outline. At most a few supporting lines join it, such as a horizon, a few ripples, a plant stem or a ridge. Colour is minimal and low in contrast: ink green, dark grey, warm white, misty blue, pale teal. The subject can be tiny, offset or floating, with almost everything around it left empty, and one very short poetic line of small text.",
+    "traits": ["Silent single line", "Wabi-sabi", "Hairline", "Extreme negative space", "One anchor", "Low contrast"],
+    "good": [
+      "Subjects whose outline already carries feeling: a person seen from behind, a perched bird, a distant mountain",
+      "Quiet, simple moments: a boat on water, a single flower stem, a chair by a window",
+      "Photos you want as a minimal poster, poetry-book image or calm wallpaper"
+    ],
+    "poor": [
+      "Photos where colour, material or detail should stay; almost only a line is left",
+      "Busy, complex scenes without a clear subject",
+      "Requests for heavy lines, vector icons, cartoon or realistic drawing"
+    ]
+  },
+  "ja": {
+    "name": "静寂の一本線",
+    "tagline": "写真の主役を、ごく細く少し不規則な一本の線にして、広い余白に浮かべます。",
+    "look": "画面に残るのは、ごく細く控えめで少し不規則な一本の線だけです。主役のいちばん大切な輪郭、向き、関係をなぞり、ときには輪郭の一部だけを描いて、残りは見る人に補ってもらいます。線は静かな手書きのメモのように、ためらいや息づかいがあり、輪郭をすべてなぞることはしません。添えるのは多くても数本の補助線で、水平線、いくつかの波紋、植物の茎、山の稜線などです。色はごく少なく、コントラストは低く：深い緑、濃いグレー、温かな白、霧のような青、淡い青緑。主役はとても小さくても、ずれても、浮かんでもよく、まわりはほとんど余白で、ごく短い詩のような一行を小さく添えます。",
+    "traits": ["静寂の一本線", "侘び寂び", "極細の線", "極端な余白", "一つの要", "低いコントラスト"],
+    "good": [
+      "輪郭そのものに気持ちがある主役：人の後ろ姿、とまっている鳥、遠い山",
+      "静かで簡素な瞬間：水面の一艘の舟、一輪の花、窓辺の椅子",
+      "ミニマルなポスター、詩集の挿絵、落ち着いた壁紙にしたい写真"
+    ],
+    "poor": [
+      "色や素材感、細部を残したい写真（ほとんど一本の線しか残りません）",
+      "にぎやかで込み入った、主役のはっきりしない場面",
+      "太い線、ベクターのアイコン、アニメ調、写実的な描写を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "고요한 단선",
+    "tagline": "사진 속 주인공을 아주 가늘고 조금 불규칙한 선 하나로 줄여 넓은 여백에 띄웁니다.",
+    "look": "화면에는 아주 가늘고 절제된, 조금 불규칙한 선 하나만 남습니다. 주인공의 가장 중요한 윤곽과 방향, 관계를 따라가며, 때로는 윤곽의 일부만 그려 나머지는 보는 사람이 채우게 합니다. 선은 조용한 손글씨 메모처럼 멈춤과 숨결이 있고, 윤곽 전체를 따라 그리지 않습니다. 곁들이는 것은 많아야 몇 개의 보조선으로, 수평선, 몇 줄의 물결, 풀줄기, 산등성이 같은 것입니다. 색은 아주 적고 대비는 낮습니다: 먹빛 초록, 짙은 회색, 따뜻한 흰색, 안개 낀 파랑, 연한 청록. 주인공은 아주 작거나 비켜 있거나 떠 있어도 되고, 둘레는 거의 전부 여백이며, 아주 짧은 시 같은 한 줄을 작게 넣습니다.",
+    "traits": ["고요한 단선", "와비사비", "아주 가는 선", "극단적 여백", "하나의 중심", "낮은 대비"],
+    "good": [
+      "윤곽 자체에 감정이 있는 주인공: 사람의 뒷모습, 앉아 있는 새, 먼 산",
+      "조용하고 단순한 순간: 물 위의 배 한 척, 꽃 한 가지, 창가의 의자",
+      "미니멀 포스터, 시집 삽화, 차분한 배경화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이나 재질, 세부를 살리고 싶은 사진(거의 선 하나만 남습니다)",
+      "북적이고 복잡하며 주인공이 분명하지 않은 장면",
+      "굵은 선, 벡터 아이콘, 만화풍, 사실적인 묘사를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الخط الواحد الصامت",
+    "tagline": "يختزل عنصر صورتك في خط واحد رفيع جداً غير منتظم قليلاً، يطفو في فراغ أبيض واسع.",
+    "look": "لا يبقى إلا خط واحد رفيع جداً ومتحفّظ وغير منتظم قليلاً، يتتبع أهم ما في العنصر من حدود واتجاه وعلاقات، وأحياناً جزءاً من حدوده فقط، ويترك للناظر أن يكملها. يبدو الخط كملاحظة هادئة بخط اليد فيها توقف وتنفّس، ولا يرسم الحدود كاملة أبداً. لا يرافقه إلا بضعة خطوط مساعدة على الأكثر، كخط أفق أو تموجات قليلة أو ساق نبتة أو حافة جبل. الألوان قليلة جداً ومنخفضة التباين: أخضر حبري، رمادي داكن، أبيض دافئ، أزرق ضبابي، أزرق مخضر باهت. قد يكون العنصر ضئيلاً أو مُزاحاً أو معلّقاً، وكل ما حوله تقريباً فارغ، مع سطر شعري قصير جداً بخط صغير.",
+    "traits": ["خط واحد صامت", "وابي سابي", "خط رفيع جداً", "فراغ سلبي شديد", "مركز واحد", "تباين منخفض"],
+    "good": [
+      "عناصر تحمل حدودها شعوراً: شخص من الخلف، طائر واقف، جبل بعيد",
+      "لحظات هادئة بسيطة: قارب على الماء، ساق زهرة واحدة، كرسي قرب نافذة",
+      "صور تريدها ملصقاً بسيطاً أو رسماً لديوان شعر أو خلفية شاشة هادئة"
+    ],
+    "poor": [
+      "صور يجب أن تبقى فيها الألوان أو الخامة أو التفاصيل؛ فلا يبقى تقريباً إلا خط",
+      "مشاهد صاخبة معقدة بلا عنصر واضح",
+      "طلب خطوط سميكة أو أيقونات متجهية أو رسم كرتوني أو واقعي"
+    ]
+  }
+}

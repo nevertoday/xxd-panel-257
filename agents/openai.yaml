@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 257"
-  short_description: "寂静单线：上半保留原照，下半只留一根极细的不完美单线和极端留白"
-  default_prompt: "Use $xxd-panel-257 to transform my photograph following the complete canonical source brief."
+  short_description: "寂静单线：只留一根极细、不完全规则的单线，悬在极端留白里"
+  default_prompt: "Use $xxd-panel-257 to turn my photo into Silent Single Line artwork."

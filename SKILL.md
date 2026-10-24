@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-257
-description: "Create XXD Panel 257 raster artwork: a faithful photograph paired with a silent monoline drawing that keeps one small contour inside extreme negative space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-257 or asks for this 寂静单线 style."
+description: "XXD Panel 257｜Silent Single Line: compresses the subject of a photo into a minimal emotional sign drawn with one very thin, restrained, slightly irregular monoline that pauses and breathes like a quiet hand-written note, keeping only the key outline, direction and relationships — sometimes only part of the contour — with at most a few supporting lines such as a horizon, ripples, a plant stem or a ridge, in a low-contrast, quiet palette of ink green, dark grey, warm white, misty blue and pale teal, extreme negative space and one very short poetic line of text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-257 or asks for wabi-sabi, single-line or ultra-minimal poetic line drawing from a photo."
 ---
 
 # XXD Panel 257
